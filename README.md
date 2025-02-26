@@ -1,4 +1,4 @@
-### Olá! Eu sou o Guilherme Souza 👋
+<a href="https://app.rocketseat.com.br/me/gsouzahh"><img src="https://app.rocketseat.com.br/api/rocketid/share?slug=gsouzahh&type=card" width="280" alt="Guilherme Souza's Rocket ID"/></a>
 
 [![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-souza-forato-1b03661b7/)
 
@@ -15,4 +15,5 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white%22%3E">
 
 <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white%22%3E">
+
 </div>
