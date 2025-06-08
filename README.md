@@ -8,7 +8,7 @@ Olá! Sou Guilherme, desenvolvedor especializado na criação de **jogos educati
 
 ✅ **Jogos Educacionais Sob Demanda**  
 ✅ **Gamificação de conteúdos escolares**  
-✅ **Exportação para WebGL e Android**  
+✅ **Exportação para WebGL, Android e IOS**  
 ✅ **Protótipos e MVPs interativos em Unity**  
 ✅ **Experiências educativas com lógica personalizada**  
 
