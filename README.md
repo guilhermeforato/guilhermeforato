@@ -1,12 +1,11 @@
-# 🎮 Guilherme – Desenvolvedor de Jogos Educativos
+# 🎮 Guilherme – Desenvolvedor de Jogos
 
-Olá! Sou Guilherme, desenvolvedor especializado na criação de **jogos educativos em Unity**, com foco em experiências interativas voltadas para a educação infantil e fundamental. Tenho experiência prática no desenvolvimento de jogos WebGL e Android, com integração a plataformas web, APIs e sistemas de gamificação.
+Olá! Sou Guilherme, desenvolvedor especializado na criação de **jogos em Unity**, com foco em experiências interativas voltadas para a educação infantil e fundamental. Tenho experiência prática no desenvolvimento de jogos WebGL e Android, com integração a plataformas web, APIs e sistemas de gamificação.
 
 ---
 
 ## 🧠 O que eu faço
-
-✅ **Jogos Educacionais Sob Demanda**  
+ 
 ✅ **Gamificação de conteúdos escolares**  
 ✅ **Exportação para WebGL, Android e IOS**  
 ✅ **Protótipos e MVPs interativos em Unity**  
